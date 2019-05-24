@@ -25,6 +25,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Execute">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Execute</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Go to mybatis related part">
         <Item>
           <IdeaActionID>MybatisProGoToXml</IdeaActionID>
@@ -86,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
     </option>
