@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.gitignore;.hg;.mvn;.svn;CVS;__pycache__;_svn;mvnw;mvnw.cmd;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="idea" type="ActionScript" />
+    </extensionMap>
+  </component>
+</application>
