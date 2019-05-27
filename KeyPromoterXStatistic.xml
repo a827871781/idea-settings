@@ -65,6 +65,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Shift-Up">
+        <Item>
+          <IdeaActionID>ShiftUpAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+.'</ShortCut>
+          <Description>Shift-Up</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'JShell jshell_console'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -78,7 +86,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
