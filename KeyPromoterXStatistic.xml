@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Data Source Properties">
@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>64</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
     </option>
