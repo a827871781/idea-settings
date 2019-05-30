@@ -4,14 +4,15 @@
     <property name="created">2019-05-24T11:07:21</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-05-30T16:07:56</property>
+    <property name="modified">2019-05-30T16:11:55</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.25" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="YouYuan" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <attributes>
     <option name="HTML_CODE">
