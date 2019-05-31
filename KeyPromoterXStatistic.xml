@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>9</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -46,7 +46,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'SpringTransactionApplication'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -238,7 +238,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SpringTransactionApplication'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -302,7 +302,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>102</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">

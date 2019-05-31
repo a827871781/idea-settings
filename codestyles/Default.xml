@@ -2,4 +2,10 @@
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
   </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
