@@ -126,7 +126,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -182,6 +182,14 @@
           <IdeaActionID>ShiftUpAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+.'</ShortCut>
           <Description>Shift-Up</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diff">
+        <Item>
+          <IdeaActionID>ChangesView.Diff</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Show Diff</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -294,7 +302,15 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
