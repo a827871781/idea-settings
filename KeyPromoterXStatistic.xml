@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>32</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -70,7 +70,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application(sync)'">
@@ -94,7 +94,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -286,7 +286,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application(sync)'">
@@ -390,7 +390,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>145</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
