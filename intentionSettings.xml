@@ -171,5 +171,7 @@
     <ignoreAction name="Kotlin/Use withIndex() instead of manual index increment" />
     <ignoreAction name="Struts 2/Create validation.xml" />
     <ignoreAction name="Java/Declaration/Split Declaration" />
+    <ignoreAction name="Java/I18N/Convert to Basic Latin" />
+    <ignoreAction name="Java/Comments/Move Comment to Separate Line" />
   </component>
 </application>
