@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scans for interfaces that declare they are feign clients (via {@link FeignClient * &lt;code&gt;@FeignClient&lt;/code&gt;}). Configures component scanning directives for use with * {@link org.springframework.context.annotation.Configuration * &lt;code&gt;@Configuration&lt;/code&gt;} classes." />
       <item value="the stamp" />
       <item value="the new value for the stamp" />
       <item value="@param newStamp the new value for the stamp" />
@@ -14,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
