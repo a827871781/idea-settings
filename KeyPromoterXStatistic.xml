@@ -441,6 +441,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Type Declaration">
+        <Item>
+          <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+B'</ShortCut>
+          <Description>Type Declaration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Update 'SpringTransactionApplication' application">
         <Item>
           <IdeaActionID>UpdateRunningApplication</IdeaActionID>
@@ -478,7 +486,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>236</Count>
+          <Count>244</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
