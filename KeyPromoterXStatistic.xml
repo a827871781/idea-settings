@@ -273,6 +273,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Component'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Component'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SpringTransactionApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
