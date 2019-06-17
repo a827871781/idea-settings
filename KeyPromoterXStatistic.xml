@@ -193,6 +193,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="MyBatis Log Plugin">
+        <Item>
+          <IdeaActionID>TailMyBatisLog</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+O'</ShortCut>
+          <Description>MyBatis Log Plugin</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste from History...">
         <Item>
           <IdeaActionID>PasteMultiple</IdeaActionID>
