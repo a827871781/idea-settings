@@ -97,14 +97,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'Solution'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'Solution'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'SpringTransactionApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -489,14 +481,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Toggle Line Breakpoint">
-        <Item>
-          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
-          <ShortCut>'Ctrl+F8'</ShortCut>
-          <Description>Toggle Line Breakpoint</Description>
-          <Count>27</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Translate">
         <Item>
           <IdeaActionID>$EditorTranslateAction</IdeaActionID>
@@ -563,12 +547,28 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Debug 'Solution'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Solution'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Synchronize">
         <Item>
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>28</Count>
         </Item>
       </Statistic>
     </option>
