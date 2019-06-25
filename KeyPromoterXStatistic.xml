@@ -425,14 +425,6 @@
           <Count>6</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'Application'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'Application'</Description>
-          <Count>40</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'Application(sync)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -566,7 +558,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>300</Count>
+          <Count>301</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
@@ -617,6 +609,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Solution'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Application'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Application'</Description>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MyClass'">
