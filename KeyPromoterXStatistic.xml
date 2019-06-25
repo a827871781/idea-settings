@@ -89,14 +89,6 @@
           <Count>6</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'Leetcode'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'Leetcode'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'MallAdminApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -350,7 +342,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Leetcode'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MyClass'">
@@ -611,6 +603,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Debug 'Leetcode'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Leetcode'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Solution'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
