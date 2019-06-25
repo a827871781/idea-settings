@@ -17,14 +17,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Build Project">
-        <Item>
-          <IdeaActionID>CompileDirty</IdeaActionID>
-          <ShortCut>'Ctrl+F9'</ShortCut>
-          <Description>Build Project</Description>
-          <Count>52</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
@@ -63,14 +55,6 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Application (catalog)'</Description>
           <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'Application (channel)'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'Application (channel)'</Description>
-          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application(sync)'">
@@ -595,6 +579,22 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>53</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Application (channel)'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Application (channel)'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Application'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
