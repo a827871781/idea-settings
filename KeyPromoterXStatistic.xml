@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>49</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -73,14 +73,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'Application'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'Application'</Description>
-          <Count>24</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'Application(sync)'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -118,7 +110,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>33</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -454,7 +446,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>28</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application(sync)'">
@@ -590,7 +582,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>296</Count>
+          <Count>300</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
@@ -603,6 +595,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Debug 'Application'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Application'</Description>
+          <Count>26</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Leetcode'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
