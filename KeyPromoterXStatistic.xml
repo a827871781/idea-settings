@@ -89,6 +89,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Leetcode'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Leetcode'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MallAdminApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -342,7 +350,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Leetcode'</Description>
-          <Count>4</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MyClass'">
@@ -590,7 +598,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>293</Count>
+          <Count>295</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
