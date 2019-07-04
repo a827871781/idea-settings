@@ -97,6 +97,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Caretaker'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Caretaker'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MallAdminApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -543,6 +551,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Application(sync)'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Caretaker'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Caretaker'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Demo2'">
