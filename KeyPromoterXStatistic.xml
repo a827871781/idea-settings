@@ -550,7 +550,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Application (channel)'</Description>
-          <Count>47</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application(sync)'">
@@ -678,7 +678,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -702,7 +702,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>420</Count>
+          <Count>421</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
