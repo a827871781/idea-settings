@@ -3,6 +3,7 @@
     <option name="profile">
       <Profile>
         <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="tempFilePath" value="C:\Users\Administrator\AppData\Local\Temp\libhello.dll4898121537707407998" />
         <option name="usejava8LocalDateTimeEct" value="true" />
         <option name="valid" value="true" />
       </Profile>
