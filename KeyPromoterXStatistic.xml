@@ -766,7 +766,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>482</Count>
+          <Count>483</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
@@ -849,6 +849,12 @@
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>28</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Upload to test">
+        <Item>
+          <IdeaActionID>PublishGroup.Upload</IdeaActionID>
+          <Description>Upload to test</Description>
         </Item>
       </Statistic>
     </option>
