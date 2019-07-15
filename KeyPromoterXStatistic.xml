@@ -761,14 +761,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="go to definition">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+B'</ShortCut>
-          <Description>go to definition</Description>
-          <Count>485</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="编码规约扫描">
         <Item>
           <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
@@ -855,6 +847,14 @@
         <Item>
           <IdeaActionID>PublishGroup.Upload</IdeaActionID>
           <Description>Upload to test</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="go to definition">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>go to definition</Description>
+          <Count>489</Count>
         </Item>
       </Statistic>
     </option>
