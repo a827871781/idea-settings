@@ -14,7 +14,7 @@
           <IdeaActionID>Graph.ApplyCurrentLayout</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Apply Current Layout</Description>
-          <Count>4</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -22,6 +22,14 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头'</ShortCut>
           <Description>Back</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Collapse Nodes">
+        <Item>
+          <IdeaActionID>Uml.CollapseNodes</IdeaActionID>
+          <ShortCut>'C'</ShortCut>
+          <Description>Collapse Nodes</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -207,6 +215,14 @@
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expand Nodes">
+        <Item>
+          <IdeaActionID>Uml.ExpandNodes</IdeaActionID>
+          <ShortCut>'E'</ShortCut>
+          <Description>Expand Nodes</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -527,6 +543,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'mvn package'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Select All">
+        <Item>
+          <IdeaActionID>Diagram.SelectAll</IdeaActionID>
+          <ShortCut>'Ctrl+A'</ShortCut>
+          <Description>Select All</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
