@@ -9,14 +9,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Apply Current Layout">
-        <Item>
-          <IdeaActionID>Graph.ApplyCurrentLayout</IdeaActionID>
-          <ShortCut>'F5'</ShortCut>
-          <Description>Apply Current Layout</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Back">
         <Item>
           <IdeaActionID>Back</IdeaActionID>
@@ -217,12 +209,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Expand All">
+        <Item>
+          <IdeaActionID>ExpandAll</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad +' or 'Ctrl+='</ShortCut>
+          <Description>Expand All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Expand Nodes">
         <Item>
           <IdeaActionID>Uml.ExpandNodes</IdeaActionID>
           <ShortCut>'E'</ShortCut>
           <Description>Expand Nodes</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -238,7 +238,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Forward">
@@ -270,7 +270,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -287,6 +287,14 @@
           <ShortCut>'Ctrl+Alt+Shift+O'</ShortCut>
           <Description>MyBatis Log Plugin</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Optimize Imports">
+        <Item>
+          <IdeaActionID>OptimizeImports</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+O'</ShortCut>
+          <Description>Optimize Imports</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -582,7 +590,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Show Diagram...</Description>
-          <Count>15</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -838,7 +846,7 @@
           <IdeaActionID>Graph.ZoomIn</IdeaActionID>
           <ShortCut>'NumPad +' or '='</ShortCut>
           <Description>Zoom In</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
@@ -851,6 +859,22 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Actual Size">
+        <Item>
+          <IdeaActionID>Graph.ActualSize</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad /' or 'Ctrl+/'</ShortCut>
+          <Description>Actual Size</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Apply Current Layout">
+        <Item>
+          <IdeaActionID>Graph.ApplyCurrentLayout</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Apply Current Layout</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
