@@ -849,14 +849,6 @@
           <Count>6</Count>
         </Item>
       </Statistic>
-      <Statistic Action="编码规约扫描">
-        <Item>
-          <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Shift+J'</ShortCut>
-          <Description>编码规约扫描</Description>
-          <Count>14</Count>
-        </Item>
-      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Actual Size">
@@ -967,6 +959,14 @@
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
           <Count>489</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="编码规约扫描">
+        <Item>
+          <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+J'</ShortCut>
+          <Description>编码规约扫描</Description>
+          <Count>15</Count>
         </Item>
       </Statistic>
     </option>
