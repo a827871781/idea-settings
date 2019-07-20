@@ -849,6 +849,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="设置...(T)">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>设置...(T)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Actual Size">
