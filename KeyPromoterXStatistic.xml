@@ -849,6 +849,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="切换行断点(L)">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>切换行断点(L)</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="设置...(T)">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
