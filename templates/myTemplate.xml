@@ -1,5 +1,5 @@
 <templateSet group="myTemplate">
-  <template name="tl" value="$x$.lock();&#10;try{&#10;    //TODO&#10;    $END$&#10;}catch(Exception ex){&#10;     &#10;}finally{&#10;    $x$.unlock();   //释放锁&#10;}&#10;" description="try lock 加锁解锁" toReformat="false" toShortenFQNames="true">
+  <template name="tl" value="$x$.lock();&#10;try{&#10;    //TODO&#10;    $END$&#10;}finally{&#10;    $x$.unlock();   //释放锁&#10;}&#10;" description="try lock 加锁解锁" toReformat="false" toShortenFQNames="true">
     <variable name="x" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
