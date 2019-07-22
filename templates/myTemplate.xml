@@ -44,4 +44,21 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="nt" value="new Thread(() -&gt; {&#10;       $END$ &#10;},$var$).start();" description="new Thread" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ft" value="for (int i = 0; i &lt; $length$; i++) {&#10;    new Thread(()-&gt;{&#10;        $END$&#10;    }, i + &quot;&quot;).start();&#10;}" description="for Thread" toReformat="false" toShortenFQNames="true">
+    <variable name="length" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tcg" value="Thread.currentThread().getName()$END$ " description="Thread.currentThread().getName()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
