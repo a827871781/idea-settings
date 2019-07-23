@@ -222,7 +222,7 @@
           <IdeaActionID>Uml.ExpandNodes</IdeaActionID>
           <ShortCut>'E'</ShortCut>
           <Description>Expand Nodes</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -598,7 +598,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Show Diagram...</Description>
-          <Count>22</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
