@@ -313,6 +313,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recent Files">
+        <Item>
+          <IdeaActionID>RecentFiles</IdeaActionID>
+          <ShortCut>'Ctrl+E'</ShortCut>
+          <Description>Recent Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Recompile '...dProviderMapper.xml'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
