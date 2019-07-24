@@ -68,4 +68,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="av" value="@Value(&quot;${$VAR1$}&quot;)&#10;private String $VAR2$;" description="@Value" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="decapitalize (VAR1)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
