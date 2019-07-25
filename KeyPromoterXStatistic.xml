@@ -78,7 +78,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -174,7 +174,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>81</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -697,6 +697,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Application (channel)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Application (channel)'</Description>
+          <Count>69</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Application(sync)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -969,14 +977,6 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Solution'</Description>
           <Count>12</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Application (channel)'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'Application (channel)'</Description>
-          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
