@@ -1,0 +1,19 @@
+<application>
+  <component name="AccountStore">
+    <option name="accountString" value="{&quot;aliyu &quot;:{&quot;profileName&quot;:&quot;aliyu &quot;,&quot;ak&quot;:&quot;LTAIX7032m4bc1Tj&quot;,&quot;secret&quot;:&quot;bG7hj91UmEfY1j0qZurNeXgpuNZRVF&quot;,&quot;show&quot;:false}}" />
+    <option name="allAccount">
+      <map>
+        <entry key="aliyu ">
+          <value>
+            <AccountModel>
+              <option name="ak" value="LTAIX7032m4bc1Tj" />
+              <option name="profileName" value="aliyu " />
+              <option name="secret" value="bG7hj91UmEfY1j0qZurNeXgpuNZRVF" />
+            </AccountModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="defaultProfile" value="aliyu " />
+  </component>
+</application>
