@@ -1,0 +1,9 @@
+<application>
+  <component name="GenericKVStore">
+    <option name="map">
+      <map>
+        <entry key="com.alibabacloud.intellij.model.UploadFileUIModel1" value="eyJpc0ZpbGUiOnRydWUsInVybCI6IkU6XFxwcm9qZWN0XFxwcDJzLWNoYW5uZWwtc2VydmljZVxcdHJ1bmtcXHRhcmdldFxccHAycy1jaGFubmVsLXNlcnZpY2UuamFyIiwibG9jYXRpb24iOiIvaG9tZS90ZXN0L3BwMnMvIiwiY29tbWFuZCI6IiJ9" />
+      </map>
+    </option>
+  </component>
+</application>
