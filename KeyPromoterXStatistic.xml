@@ -609,6 +609,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'order'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'order'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Select All">
         <Item>
           <IdeaActionID>Diagram.SelectAll</IdeaActionID>
@@ -926,7 +934,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>68</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
