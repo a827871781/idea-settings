@@ -75,4 +75,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="ps" value="private String $str$ ;&#10;$END$" description="private String" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
