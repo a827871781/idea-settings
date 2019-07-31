@@ -1,0 +1,5 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+</keymap>
