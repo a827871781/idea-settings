@@ -1,0 +1,73 @@
+<application>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.js">
+        <value>
+          <set>
+            <option value="com.intellij.lang.javascript.template.postfix.JSArgumentPostfixTemplate#.arg" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSAwaitPostfixTemplate#.await" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSDForOfPostfixTemplate#.dforof" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSDestructPostfixTemplate#.destruct" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSElseStatementPostfixTemplate#.else" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSForInPostfixTemplate#.forin" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSForInPostfixTemplate#.itin" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSForOfPostfixTemplate#.forof" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSIfInstanceOfPostfixTemplate#.instanceof" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSIfStatementPostfixTemplate#.if" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSIfTypeOfPostfixTemplate#.typeofif" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSIntroduceConstPostfixTemplate#.const" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSIntroduceLetPostfixTemplate#.let" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSIntroduceVarPostfixTemplate#.var" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSLogPostfixTemplate#.log" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSNotExpressionPostfixTemplate#!" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSNotExpressionPostfixTemplate#.not" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSNotNullStatementPostfixTemplate#.notnull" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSNullStatementPostfixTemplate#.null" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSParenthesizedPostfixTemplate#.par" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSReturnStatementPostfixTemplate#.return" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSSwitchPostfixTemplate#.switch" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSThrowStatementPostfixTemplate#.throw" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSTypeOfExpressionPostfixTemplate#.typeof" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSUndefPostfixTemplate#.undef" />
+          </set>
+        </value>
+      </disabled-templates>
+      <disabled-templates provider="builtin.ts">
+        <value>
+          <set>
+            <option value="com.intellij.lang.typescript.template.postfix.TypeScriptCastPostfixTemplate#.cast" />
+          </set>
+        </value>
+      </disabled-templates>
+      <disabled-templates provider="org.jetbrains.kotlin.idea.codeInsight.postfix.KtPostfixTemplateProvider">
+        <value>
+          <set>
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtArgumentPostfixTemplate#.arg" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtAssertPostfixTemplate#.assert" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtElseExpressionPostfixTemplate#.else" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtForEachPostfixTemplate#.for" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtForEachPostfixTemplate#.iter" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIfExpressionPostfixTemplate#.if" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIntroduceVariablePostfixTemplate#.val" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIntroduceVariablePostfixTemplate#.var" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIsNullPostfixTemplate#.null" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotNullPostfixTemplate#.nn" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotNullPostfixTemplate#.notnull" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotPostfixTemplate#.not" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtParenthesizedPostfixTemplate#.par" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtReturnPostfixTemplate#.return" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtSoutPostfixTemplate#.sout" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtSpreadPostfixTemplate#.spread" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtTryPostfixTemplate#.try" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWhenExpressionPostfixTemplate#.when" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWhilePostfixTemplate#.while" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWrapWithArrayOfPostfixTemplate#.arrayOf" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWrapWithListOfPostfixTemplate#.listOf" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWrapWithSequenceOfPostfixTemplate#.sequenceOf" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWrapWithSetOfPostfixTemplate#.setOf" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
+  </component>
+</application>
