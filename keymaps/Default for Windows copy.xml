@@ -1,6 +1,8 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
   <action id="CallHierarchy" />
-  <action id="CheckinProject" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl k" />
