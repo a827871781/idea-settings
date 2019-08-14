@@ -4,14 +4,27 @@
     <property name="created">2019-05-24T11:07:21</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-08-14T09:52:03</property>
+    <property name="modified">2019-08-14T10:01:38</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.25" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="SimSun" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="SimSun" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
