@@ -2,6 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="generateWithIfTest" value="true" />
         <option name="ifTestStringNullAndEmpty" value="true" />
         <option name="tempFilePath" value="C:\Users\ADMINI~1\AppData\Local\Temp\libhello.dll5250196633327392882" />
         <option name="usejava8LocalDateTimeEct" value="true" />
