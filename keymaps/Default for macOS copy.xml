@@ -6,6 +6,11 @@
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -15,7 +20,15 @@
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="shift alt w" />
   </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
   <action id="Groovy.Shell.Execute" />
+  <action id="JRebel Debug">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="KotlinShellExecute" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
