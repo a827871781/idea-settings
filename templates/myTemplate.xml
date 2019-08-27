@@ -27,7 +27,8 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="at" value="@Test&#10;public void test() {&#10;     $END$&#10;}" description="test方法" toReformat="false" toShortenFQNames="true">
+  <template name="at" value="@Test&#10;public void test$str$() {&#10;     $END$&#10;}" description="test方法" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
