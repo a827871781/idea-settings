@@ -1,4 +1,16 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateAlibabaCloudExplorerToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta 4" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta 3" />
+  </action>
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta 1" />
+  </action>
+  <action id="ActivateRestServicesToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta 2" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.EditValue">
