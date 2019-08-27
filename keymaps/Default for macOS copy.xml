@@ -11,6 +11,9 @@
   <action id="ActivateRestServicesToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta 2" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="meta f4" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.EditValue">
