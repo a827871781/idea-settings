@@ -27,23 +27,29 @@
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt k" />
   </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt h" />
+  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt e" />
   </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt left" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt h" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt a" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt w" />
   </action>
   <action id="EditorSplitLine" />
-  <action id="EditorUnSelectWord">
-    <keyboard-shortcut first-keystroke="alt down" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt e" />
-  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
