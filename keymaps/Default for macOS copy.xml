@@ -25,6 +25,15 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt k" />
+  </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt h" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
@@ -33,12 +42,13 @@
   <action id="EditorSplitLine" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
-    <keyboard-shortcut first-keystroke="shift alt w" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt e" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="shift f3" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt j" />
   </action>
   <action id="Groovy.Shell.Execute" />
   <action id="JRebel Debug">
