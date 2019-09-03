@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set the secure connection flag that will be assigned to requests * received through this connector." />
       <item value="/** * Returns the total amount of elements. * * @return the total amount of elements" />
       <item value="The language for this {@link Script} if the {@link ScriptType} is {@link ScriptType#INLINE} or * {@link ScriptType#FILE}. For {@link ScriptType#STORED} scripts this should be null, but can" />
       <item value="Creates a new {@link PageRequest}. Pages are zero indexed, thus providing 0 for {@code page} will return the first" />
