@@ -11,6 +11,10 @@
   <action id="ActivateRestServicesToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta 2" />
   </action>
+  <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
+    <keyboard-shortcut first-keystroke="meta space" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -50,9 +54,13 @@
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt w" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt 1" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt 2" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -60,6 +68,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta alt j" />
   </action>
   <action id="Groovy.Shell.Execute" />
+  <action id="IntroduceTypeAlias">
+    <keyboard-shortcut first-keystroke="shift meta alt a" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="JRebel Debug">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
