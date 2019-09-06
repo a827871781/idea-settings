@@ -93,7 +93,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="strnb" value="StringUtils.isNotBlank($str$)$END$" toReformat="false" toShortenFQNames="true">
+  <template name="strnb" value="StringUtils.isNotBlank($str$)$END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="str" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
