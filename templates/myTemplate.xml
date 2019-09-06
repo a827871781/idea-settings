@@ -99,4 +99,22 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="stre" value="StringUtils.isEmpty($str$)$END$" description="StringUtils.isEmpty()" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="strne" value="StringUtils.isEmpty($str$)$END$&#10;        &#10;" description="StringUtils.isNotEmpty()" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tt" value="$ttt$" description="tttt" toReformat="false" toShortenFQNames="true">
+    <variable name="ttt" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
