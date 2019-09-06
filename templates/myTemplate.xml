@@ -87,4 +87,16 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="strb" value="StringUtils.isBlank($str$)$END$" description="StringUtils.isBlank(&quot;&quot;)" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="strnb" value="StringUtils.isNotBlank($str$)$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
