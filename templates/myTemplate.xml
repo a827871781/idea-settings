@@ -111,4 +111,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="ifx" value="if($str$){&#10;    $END$&#10;}" description="if(){}" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
