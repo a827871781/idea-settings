@@ -111,10 +111,4 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="tt" value="$ttt$" description="tttt" toReformat="false" toShortenFQNames="true">
-    <variable name="ttt" expression="className()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
 </templateSet>
