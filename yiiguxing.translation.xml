@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Default scope matching any host, port, realm and authentication scheme. * In the future versions of HttpClient the use of this parameter will be * discontinued. */" />
       <item value="Set the secure connection flag that will be assigned to requests * received through this connector." />
       <item value="/** * Returns the total amount of elements. * * @return the total amount of elements" />
       <item value="The language for this {@link Script} if the {@link ScriptType} is {@link ScriptType#INLINE} or * {@link ScriptType#FILE}. For {@link ScriptType#STORED} scripts this should be null, but can" />
