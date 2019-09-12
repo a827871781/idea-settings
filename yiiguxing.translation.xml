@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Such Method Error" />
       <item value="Default scope matching any host, port, realm and authentication scheme. * In the future versions of HttpClient the use of this parameter will be * discontinued. */" />
       <item value="Set the secure connection flag that will be assigned to requests * received through this connector." />
       <item value="/** * Returns the total amount of elements. * * @return the total amount of elements" />
@@ -30,11 +31,16 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
