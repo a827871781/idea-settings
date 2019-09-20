@@ -11,6 +11,14 @@
           <option name="key" value="tldFunction" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="Custom Postfix Templates" />
+          <option name="key" value="-&gt;" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Custom Postfix Templates" />
+          <option name="key" value="_" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="jsf" />
           <option name="key" value="uicomponent" />
         </TemplateKey>
