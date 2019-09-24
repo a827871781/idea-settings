@@ -4,7 +4,7 @@
     <property name="created">2019-09-24T15:27:35</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-24T15:34:24</property>
+    <property name="modified">2019-09-24T17:27:29</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -662,6 +662,12 @@
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
+    <option name="DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="6d6f2c" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
@@ -980,6 +986,11 @@
         <option name="BACKGROUND" value="3a3f4b" />
       </value>
     </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
     <option name="IVAR">
       <value>
         <option name="FOREGROUND" value="9373a5" />
@@ -988,6 +999,12 @@
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="6d6f4f" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_DOC_TAG">

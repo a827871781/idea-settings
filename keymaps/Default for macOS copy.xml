@@ -28,6 +28,9 @@
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorDeleteToWordStartInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
