@@ -2,9 +2,10 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="generateWithIfTest" value="true" />
         <option name="ifTestStringNullAndEmpty" value="true" />
         <option name="mybatisGeneratorMapperSuffix" value="Dao" />
-        <option name="tempFilePath" value="/var/folders/hk/_shnczh55mz3z7l_qvpg7bz00000gn/T/startLearnGo-darwin-10.6-amd64.dylib1198406122762487848" />
+        <option name="tempFilePath" value="/var/folders/hk/_shnczh55mz3z7l_qvpg7bz00000gn/T/startLearnGo-darwin-10.6-amd64.dylib15118804242040710340" />
         <option name="valid" value="true" />
       </Profile>
     </option>
