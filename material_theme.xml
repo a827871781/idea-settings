@@ -2,7 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-2f99a94e:16b07d1d203:-8000" />
     <option name="version" value="4.5.1" />
   </component>
