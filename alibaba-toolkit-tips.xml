@@ -2,6 +2,7 @@
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
     <entry projectName="pp2s-project" firstStartUp="false" />
+    <entry projectName="springboot-docker" firstStartUp="false" />
     <entry projectName="wechat" firstStartUp="false" />
   </component>
 </application>
