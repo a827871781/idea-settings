@@ -4,5 +4,6 @@
     <entry projectName="pp2s-project" firstStartUp="false" />
     <entry projectName="springboot-docker" firstStartUp="false" />
     <entry projectName="wechat" firstStartUp="false" />
+    <entry projectName="wechat-admin" firstStartUp="false" />
   </component>
 </application>
