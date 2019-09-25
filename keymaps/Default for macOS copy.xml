@@ -2,6 +2,9 @@
   <action id="ActivateAlibabaCloudExplorerToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta 4" />
   </action>
+  <action id="ActivateAlibabaCloudViewToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta 3" />
   </action>
