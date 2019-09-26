@@ -28,12 +28,13 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-7005666" />
+                              <option name="color" value="-7012337" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                         </GrepStyle>
                       </option>
+                      <option name="unlessGrepExpression" value="" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*WARN.*" />
