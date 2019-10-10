@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="cow" />
       <item value="row" />
+      <item value="cow" />
       <item value="search Source Builder" />
       <item value="org.elasticsearch.search.aggregations.bucket.terms.ParsedStringTerms cannot be cast to org.elasticsearch.search.aggregations.bucket.terms.StringTerms" />
       <item value="Constructs a new search request against the indices. No indices provided here means that search" />
