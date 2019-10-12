@@ -86,6 +86,9 @@
     <keyboard-shortcut first-keystroke="meta alt back_space" />
   </action>
   <action id="KotlinShellExecute" />
+  <action id="OnlineSearch.EditorActions.ShowSearchEnginesAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt s" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
