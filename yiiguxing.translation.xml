@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Only English" />
+      <item value="r第一个" />
+      <item value="row" />
+      <item value="cow" />
+      <item value="search Source Builder" />
+      <item value="org.elasticsearch.search.aggregations.bucket.terms.ParsedStringTerms cannot be cast to org.elasticsearch.search.aggregations.bucket.terms.StringTerms" />
+      <item value="Constructs a new search request against the indices. No indices provided here means that search" />
+      <item value="No Such Method Error" />
+      <item value="Default scope matching any host, port, realm and authentication scheme. * In the future versions of HttpClient the use of this parameter will be * discontinued. */" />
+      <item value="Set the secure connection flag that will be assigned to requests * received through this connector." />
+      <item value="/** * Returns the total amount of elements. * * @return the total amount of elements" />
       <item value="The language for this {@link Script} if the {@link ScriptType} is {@link ScriptType#INLINE} or * {@link ScriptType#FILE}. For {@link ScriptType#STORED} scripts this should be null, but can" />
       <item value="Creates a new {@link PageRequest}. Pages are zero indexed, thus providing 0 for {@code page} will return the first" />
       <item value="Error executing Maven. 2 problems were encountered while building the effective settings" />
@@ -26,9 +37,31 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="28" />
       </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Monaco" />
+    <option name="primaryFontFamily" value="Monaco" />
+    <option name="showExplanation" value="true" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </youdao-translate>
     </option>
   </component>
 </application>

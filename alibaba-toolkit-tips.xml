@@ -1,5 +1,13 @@
 <application>
   <component name="TipsStore">
-    <option name="firstStartUp" value="false" />
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectName="leetcode" firstStartUp="false" />
+    <entry projectName="pp2s-project" firstStartUp="false" />
+    <entry projectName="pp2s-wechat-service" firstStartUp="false" />
+    <entry projectName="springboot-docker" firstStartUp="false" />
+    <entry projectName="springboot-ssl" firstStartUp="false" />
+    <entry projectName="test" firstStartUp="false" />
+    <entry projectName="wechat" firstStartUp="false" />
+    <entry projectName="wechat-admin" firstStartUp="false" />
   </component>
 </application>

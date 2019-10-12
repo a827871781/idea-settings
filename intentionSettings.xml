@@ -173,5 +173,8 @@
     <ignoreAction name="Java/Declaration/Split Declaration" />
     <ignoreAction name="Java/I18N/Convert to Basic Latin" />
     <ignoreAction name="Java/Comments/Move Comment to Separate Line" />
+    <ignoreAction name="Java/Control Flow/Invert 'if' condition" />
+    <ignoreAction name="Java/Modifiers/Change access modifier" />
+    <ignoreAction name="Java/Concurrency/Convert to ThreadLocal" />
   </component>
 </application>
