@@ -43,11 +43,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="useTranslateGoogleCom" value="false" />
@@ -58,10 +53,5 @@
     <option name="phoneticFontFamily" value="Monaco" />
     <option name="primaryFontFamily" value="Monaco" />
     <option name="showExplanation" value="true" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="CHINESE" />
-      </youdao-translate>
-    </option>
   </component>
 </application>
