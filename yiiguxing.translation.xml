@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quicksort" />
+      <item value="Sorts the specified range of the array by Dual-Pivot Quicksort." />
       <item value="is Only English" />
       <item value="r第一个" />
       <item value="row" />
@@ -37,17 +39,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="useTranslateGoogleCom" value="false" />
@@ -58,10 +55,5 @@
     <option name="phoneticFontFamily" value="Monaco" />
     <option name="primaryFontFamily" value="Monaco" />
     <option name="showExplanation" value="true" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="CHINESE" />
-      </youdao-translate>
-    </option>
   </component>
 </application>
