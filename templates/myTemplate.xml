@@ -27,7 +27,8 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="at" value="@Test&#10;public void test() {&#10;     $END$&#10;}" description="test方法" toReformat="false" toShortenFQNames="true">
+  <template name="at" value="@Test&#10;public void test$str$() {&#10;     $END$&#10;}" description="test方法" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -85,5 +86,38 @@
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
+  </template>
+  <template name="strb" value="StringUtils.isBlank($str$)$END$" description="StringUtils.isBlank(&quot;&quot;)" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="strnb" value="StringUtils.isNotBlank($str$)$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="stre" value="StringUtils.isEmpty($str$)$END$" description="StringUtils.isEmpty()" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="strne" value="StringUtils.isEmpty($str$)$END$&#10;        &#10;" description="StringUtils.isNotEmpty()" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ifx" value="if($str$){&#10;    $END$&#10;}" description="if(){}" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="str" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="_" value="$var$ -&gt; $var$" description="lambda" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="suggestShortVariableName()" defaultValue="v" alwaysStopAt="false" />
   </template>
 </templateSet>
