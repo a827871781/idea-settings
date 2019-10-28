@@ -11,5 +11,6 @@
     <entry projectName="test_ci" firstStartUp="false" />
     <entry projectName="wechat" firstStartUp="false" />
     <entry projectName="wechat-admin" firstStartUp="false" />
+    <entry projectName="wechat-mobile" firstStartUp="false" />
   </component>
 </application>
