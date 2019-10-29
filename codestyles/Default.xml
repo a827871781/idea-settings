@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="20" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="20" />
+  </JavaCodeStyleSettings>
   <Properties>
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
   </Properties>
