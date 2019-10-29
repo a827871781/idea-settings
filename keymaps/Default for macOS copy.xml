@@ -90,6 +90,9 @@
     <keyboard-shortcut first-keystroke="meta alt back_space" />
   </action>
   <action id="KotlinShellExecute" />
+  <action id="Macro.mim">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
   <action id="OnlineSearch.EditorActions.ShowSearchEnginesAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt s" />
   </action>
