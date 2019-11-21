@@ -4,6 +4,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="anjm.*" />
+        <option value="fileUpload1.*" />
       </list>
     </option>
   </inspection_tool>
