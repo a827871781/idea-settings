@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/work-code/wechat-admin" firstStartUp="false" />
     <entry projectName="gradle-demo" firstStartUp="false" />
     <entry projectName="leetcode" firstStartUp="false" />
     <entry projectName="pp2s-project" firstStartUp="false" />
