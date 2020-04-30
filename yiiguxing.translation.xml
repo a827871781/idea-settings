@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="name" />
+      <item value="tId&gt;spring-boot-starter-parent&lt;/artifactId&gt; &lt;version&gt;2.1.7.RELEASE&lt;/version&gt; &lt;relativePath/&gt; &lt;!-- lookup parent from repository --&gt; &lt;/parent&gt; &lt;groupId&gt;com.test.brand&lt;/groupId&gt; &lt;artifactId&gt;test&lt;/artifactId&gt; &lt;version&gt;0.0.1-SNAPSHOT&lt;/version&gt; &lt;name&gt;test&lt;/name&gt;" />
       <item value="Quicksort" />
       <item value="Sorts the specified range of the array by Dual-Pivot Quicksort." />
       <item value="is Only English" />
@@ -39,17 +41,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Monaco" />
