@@ -11,6 +11,10 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta f4" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta g" />
     <keyboard-shortcut first-keystroke="f3" />
@@ -19,5 +23,12 @@
     <keyboard-shortcut first-keystroke="shift meta g" />
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
+  <action id="Groovy.Shell.Execute" />
+  <action id="KotlinShellExecute" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="ToggleBookmark" />
+  <action id="ViewSource" />
 </keymap>
