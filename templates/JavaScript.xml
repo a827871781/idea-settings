@@ -82,4 +82,11 @@
   <template name="flow" value="// @flow" description="Inserts @flow annotation" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
+  <template name="addRouter" value=",&#10;        {&#10;            path: '/$v1$/save',&#10;            component: _import('modules/$v1$/save'),&#10;            name: '$v1$-save',&#10;            meta: {title: '新增$v2$', isTab: true}&#10;        }, {&#10;            path: '/$v1$/edit',&#10;            component: _import('modules/$v1$/save'),&#10;            name: '$v1$-edit',&#10;            meta: {title: '修改$v2$', isTab: true}&#10;        }, {&#10;            path: '/$v1$/info',&#10;            component: _import('modules/$v1$/save'),&#10;            name: '$v1$-info',&#10;            meta: {title: '$v2$详情', isTab: true}&#10;        }" description="新增router" toReformat="false" toShortenFQNames="true">
+    <variable name="v1" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
+    <variable name="v2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
