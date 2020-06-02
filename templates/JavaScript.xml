@@ -59,7 +59,7 @@
   <template name="flow" value="// @flow" description="Inserts @flow annotation" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="el" value="&lt;el-row&gt;&#10;  &lt;el-col :span=&quot;$str$&quot;&gt;&lt;/div&gt;&lt;/el-col&gt;&#10;&lt;/el-row&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="el" value="&lt;el-row&gt;&#10;  &lt;el-col :span=&quot;$str$&quot;&gt;&lt;/div&gt;&lt;/el-col&gt;&#10;&lt;/el-row&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
