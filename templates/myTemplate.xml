@@ -120,4 +120,14 @@
   <template name="_" value="$var$ -&gt; $var$" description="lambda" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="suggestShortVariableName()" defaultValue="v" alwaysStopAt="false" />
   </template>
+  <template name="/==" value="//=====================================$str$开始=====================================&#10;$END$&#10;&#10;&#10;//=====================================$str$结束=====================================" description="注释" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
 </templateSet>
