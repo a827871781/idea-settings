@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PRODUCT ORDER SHIP CHANNEL" />
       <item value="send write confirm channel" />
       <item value="productnum" />
       <item value="Add a specific Issuer (&quot;iss&quot;) claim to the Payload." />
@@ -46,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
