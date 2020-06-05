@@ -8,6 +8,9 @@
   <action id="ActivateRestServicesToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta 2" />
   </action>
+  <action id="ActivateRestfulToolToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta 2" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta f4" />
   </action>
@@ -38,5 +41,8 @@
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="ToggleBookmark" />
+  <action id="Tool.GotoRequestService">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="ViewSource" />
 </keymap>
