@@ -27,22 +27,23 @@
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt 2" />
   </action>
-  <action id="FindNext">
-    <keyboard-shortcut first-keystroke="meta g" />
-    <keyboard-shortcut first-keystroke="f3" />
-  </action>
-  <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="shift meta g" />
-    <keyboard-shortcut first-keystroke="shift f3" />
-  </action>
   <action id="Groovy.Shell.Execute" />
   <action id="JRebel Debug">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="KotlinShellExecute" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt d" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt s" />
   </action>
   <action id="ToggleBookmark" />
   <action id="Tool.GotoRequestService">
