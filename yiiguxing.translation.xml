@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String" />
       <item value="index of the first character of the subarray and the" />
       <item value="serial Version UID" />
       <item value="Serializable" />
@@ -50,12 +51,11 @@
       <item value="Responsible for adding in a marker bean to activate" />
       <item value="springapplication.run(application.class, args);" />
       <item value="create" />
-      <item value="Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
