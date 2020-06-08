@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="index of the first character of the subarray and the" />
+      <item value="serial Version UID" />
+      <item value="Serializable" />
+      <item value="String Builder" />
       <item value="all Province" />
       <item value="Path Variable" />
       <item value="information status channel" />
@@ -47,12 +51,11 @@
       <item value="springapplication.run(application.class, args);" />
       <item value="create" />
       <item value="Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
-      <item value="/** * The annotated element size must be between the specified boundaries (included). * &lt;p&gt; * Supported types are: * &lt;ul&gt; * &lt;li&gt;{@code CharSequence} (length of character sequence is evaluated)&lt;/li&gt; * &lt;li&gt;{@code Collection} (collection size is evaluated)&lt;/li&gt; * &lt;li&gt;{@code Map} (map size is evaluated)&lt;/li&gt; * &lt;li&gt;Array (array length is evaluated)&lt;/li&gt; * &lt;/ul&gt; * &lt;p&gt; * {@code null} elements are considered valid. * * @author Emmanuel Bernard */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
