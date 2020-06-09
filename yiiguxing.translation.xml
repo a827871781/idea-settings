@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advice Status" />
+      <item value="payment Status" />
+      <item value="booking Status" />
+      <item value="booking Type" />
+      <item value="assistantname" />
       <item value="String" />
       <item value="index of the first character of the subarray and the" />
       <item value="serial Version UID" />
@@ -46,16 +51,11 @@
       <item value="the stamp" />
       <item value="the new value for the stamp" />
       <item value="@param newStamp the new value for the stamp" />
-      <item value="the new value for the reference" />
-      <item value="Unconditionally sets the value of both the reference and stamp. * * @param newReference the new value for the reference * @param newStamp the new value for the stamp" />
-      <item value="Responsible for adding in a marker bean to activate" />
-      <item value="springapplication.run(application.class, args);" />
-      <item value="create" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
       </map>
     </option>
   </component>
