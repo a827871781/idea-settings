@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="start Delivery Time" />
       <item value="min Comprehensive Screening Num" />
       <item value="province Name" />
       <item value="advice Status" />
@@ -50,12 +51,11 @@
       <item value="* A constant holding the minimum value an {@code int} can * have, -2&lt;sup&gt;31&lt;/sup&gt;. */" />
       <item value="Reference Queue" />
       <item value="Scans for interfaces that declare they are feign clients (via {@link FeignClient * &lt;code&gt;@FeignClient&lt;/code&gt;}). Configures component scanning directives for use with * {@link org.springframework.context.annotation.Configuration * &lt;code&gt;@Configuration&lt;/code&gt;} classes." />
-      <item value="the stamp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
       </map>
     </option>
   </component>
