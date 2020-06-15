@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="doctor Suggest" />
+      <item value="reservation Status" />
+      <item value="suggest Status" />
       <item value="start Delivery Time" />
       <item value="min Comprehensive Screening Num" />
       <item value="province Name" />
@@ -48,14 +51,11 @@
       <item value="The build could not read 1 project -&gt; [Help 1]" />
       <item value="Determines if the specified character is a letter or digit. * &lt;p&gt; * A character is considered to be a letter or digit if either * {@code Character.isLetter(char ch)} or * {@code Character.isDigit(char ch)} returns * {@code true} for the character. * * &lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; This method cannot handle &lt;a * href=&quot;#supplementary&quot;&gt; supplementary characters&lt;/a&gt;. To support * all Unicode characters, including supplementary characters, use * the {@link #isLetterOrDigit(int)} method." />
       <item value="out" />
-      <item value="* A constant holding the minimum value an {@code int} can * have, -2&lt;sup&gt;31&lt;/sup&gt;. */" />
-      <item value="Reference Queue" />
-      <item value="Scans for interfaces that declare they are feign clients (via {@link FeignClient * &lt;code&gt;@FeignClient&lt;/code&gt;}). Configures component scanning directives for use with * {@link org.springframework.context.annotation.Configuration * &lt;code&gt;@Configuration&lt;/code&gt;} classes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
       </map>
     </option>
   </component>
