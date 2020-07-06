@@ -72,6 +72,12 @@
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
+                  <option name="id" value="xylo.junit4" />
+                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/junit4.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/java/xylo.junit4.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
                   <option name="id" value="cassiuscai.mockito" />
                   <option name="url" value="https://raw.githubusercontent.com/cassiuscai/postfix-templates/master/templates/mockito.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/java/cassiuscai.mockito.postfixTemplates" />
@@ -201,6 +207,12 @@
                   <option name="id" value="xylo.scala-arm" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/scala/scala-arm.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/scala/xylo.scala-arm.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="xylo.junit4" />
+                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/scala/junit4.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/scala/xylo.junit4.postfixTemplates" />
                 </VFile>
                 <VFile>
                   <option name="id" value="xylo.commons-logging" />
