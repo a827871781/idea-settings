@@ -18,4 +18,11 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name="logf" value="console.log('$str$:' ,$str$)" description="格式化剪切板内的字符串" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
