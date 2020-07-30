@@ -18,7 +18,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="logf" value="console.log('$str$:' ,$str$)" description="格式化log输出" toReformat="false" toShortenFQNames="true">
+  <template name="lof" value="console.log('$str$:' ,$str$)" description="格式化log输出" toReformat="false" toShortenFQNames="true">
     <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
