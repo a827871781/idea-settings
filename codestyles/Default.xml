@@ -1,6 +1,4 @@
 <code_scheme name="Default" version="173">
-  <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />

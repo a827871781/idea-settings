@@ -130,4 +130,13 @@
       <option name="JSP" value="true" />
     </context>
   </template>
+  <template name="addconmethod" value="  @RequestMapping(&quot;$str$&quot;)&#10;    public ResponseResult&lt;$end1$ &gt; $str$($end2$){&#10;&#10;        return $end3$;&#10;    }" description="创建controller方法" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>

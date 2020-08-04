@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
     <option name="inactiveTimeout" value="10" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
@@ -12,7 +13,6 @@
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.tree.ui.experimental" value="false" />
-    <entry key="js.debugger.webconsole" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
