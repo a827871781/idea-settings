@@ -1,9 +1,4 @@
 <code_scheme name="Default" version="173">
-  <option name="OTHER_INDENT_OPTIONS">
-    <value>
-      <option name="SMART_TABS" value="true" />
-    </value>
-  </option>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
