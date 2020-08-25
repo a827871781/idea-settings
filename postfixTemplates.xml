@@ -4,7 +4,7 @@
       <conditions />
       <template name="fakeKey" value="&quot;$EXPR$&quot;" toReformat="true" toShortenFQNames="true" />
     </template>
-    <template id="s@userDefined" key=".s" provider="builtin.js" language-level="ES6" topmost="true">
+    <template id="s@userDefined" key=".str" provider="builtin.js" language-level="ES6" topmost="true">
       <conditions />
       <template name="fakeKey" value="'$EXPR$'" toReformat="true" toShortenFQNames="true" />
     </template>
