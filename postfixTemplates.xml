@@ -1,16 +1,53 @@
 <application>
   <component name="PostfixTemplates">
-    <template id="tostr@userDefined" key=".tostr" provider="builtin.js" language-level="ES6" topmost="false">
+    <template id="str@userDefined" key=".str" provider="builtin.java" language-level="8" topmost="false">
       <conditions />
-      <template name="fakeKey" value="$EXPRS$+''" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="&quot;$EXPR$&quot;" toReformat="true" toShortenFQNames="true" />
     </template>
-    <template id="toInt@userDefined" key=".tonum" provider="builtin.js" language-level="ES5" topmost="true">
+    <template id="toInt@userDefined" key=".tonum" provider="builtin.js" language-level="ES6" topmost="true">
       <conditions />
-      <template name="fakeKey" value="$EXPRS$*1" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="Number($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="str@userDefined" key=".str" provider="builtin.js" language-level="ES6" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="'$EXPR$'" toReformat="true" toShortenFQNames="true" />
     </template>
     <template id="toboo@userDefined" key=".toboo" provider="builtin.js" language-level="ES6" topmost="false">
       <conditions />
-      <template name="fakeKey" value="Boolean($EXPRS$)" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="Boolean($EXPR$)" toReformat="true" toShortenFQNames="true" />
     </template>
+  </component>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="org.jetbrains.kotlin.idea.codeInsight.postfix.KtPostfixTemplateProvider">
+        <value>
+          <set>
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtArgumentPostfixTemplate#.arg" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtAssertPostfixTemplate#.assert" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtElseExpressionPostfixTemplate#.else" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtForEachPostfixTemplate#.for" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtForEachPostfixTemplate#.iter" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIfExpressionPostfixTemplate#.if" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIntroduceVariablePostfixTemplate#.val" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIntroduceVariablePostfixTemplate#.var" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIsNullPostfixTemplate#.null" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotNullPostfixTemplate#.nn" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotNullPostfixTemplate#.notnull" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotPostfixTemplate#.not" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtParenthesizedPostfixTemplate#.par" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtReturnPostfixTemplate#.return" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtSoutPostfixTemplate#.sout" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtSpreadPostfixTemplate#.spread" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtTryPostfixTemplate#.try" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWhenExpressionPostfixTemplate#.when" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWhilePostfixTemplate#.while" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWrapWithArrayOfPostfixTemplate#.arrayOf" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWrapWithListOfPostfixTemplate#.listOf" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWrapWithSequenceOfPostfixTemplate#.sequenceOf" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWrapWithSetOfPostfixTemplate#.setOf" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
   </component>
 </application>
