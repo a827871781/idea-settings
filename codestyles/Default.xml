@@ -6,83 +6,9 @@
   <Properties>
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
   </Properties>
-  <codeStyleSettings language="CFML">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="CPT">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="CoffeeScript">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="ECMA Script Level 4">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="GSP">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Groovy">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="HTML">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="WRAP_LONG_LINES" value="true" />
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="JSP">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="JSPX">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="JavaScript">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Shell Script">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="TypeScript">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="VTL">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="kotlin">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
