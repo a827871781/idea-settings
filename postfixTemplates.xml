@@ -4,9 +4,17 @@
       <conditions />
       <template name="fakeKey" value="&quot;$EXPR$&quot;" toReformat="true" toShortenFQNames="true" />
     </template>
-    <template id="toInt@userDefined" key=".toInt" provider="builtin.js" language-level="ES6" topmost="true">
+    <template id="toInt@userDefined" key=".tonum" provider="builtin.js" language-level="ES6" topmost="true">
       <conditions />
-      <template name="fakeKey" value="$EXPR$ * 1" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="Number($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="str@userDefined" key=".str" provider="builtin.js" language-level="ES6" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="'$EXPR$'" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="toboo@userDefined" key=".toboo" provider="builtin.js" language-level="ES6" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="Boolean($EXPR$)" toReformat="true" toShortenFQNames="true" />
     </template>
   </component>
   <component name="PostfixTemplatesSettings">
