@@ -44,10 +44,6 @@
               <list>
                 <VFile>
                   <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}/java/user.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="cassiuscai.vavr" />
                   <option name="url" value="https://raw.githubusercontent.com/cassiuscai/postfix-templates/master/templates/vavr.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/java/cassiuscai.vavr.postfixTemplates" />
@@ -159,6 +155,16 @@
                   <option name="id" value="xylo.idea-dev" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/idea-dev.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/java/xylo.idea-dev.postfixTemplates" />
+                </VFile>
+              </list>
+            </value>
+          </entry>
+          <entry key="javascript">
+            <value>
+              <list>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}/javascript/log.postfixTemplates" />
                 </VFile>
               </list>
             </value>
