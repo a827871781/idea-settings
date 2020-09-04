@@ -1,0 +1,22 @@
+<templateSet group="Java">
+  <template name="ifn" value="if ($END$) {&#10;    &#10;}" description="if conditional" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="ifelsen" value="if ($END$) {&#10;    &#10;} else {&#10;    &#10;}" description="if then else conditional" toReformat="false" toShortenFQNames="true" />
+  <template name="elsen" value="else {&#10;    $END$&#10;}" description="else conditional" toReformat="false" toShortenFQNames="true" />
+  <template name="elseifn" value="else if ($END$) {&#10;    &#10; }" description="else if condition" toReformat="false" toShortenFQNames="true" />
+  <template name="switchn" value="switch ($END$) {&#10;    &#10;}" description="switch statement" toReformat="false" toShortenFQNames="true" />
+  <template name="casen" value="case $END$:&#10;" description="case" toReformat="false" toShortenFQNames="true" />
+  <template name="whilen" value="while ($END$) {&#10;    &#10;}" description="while loop" toReformat="false" toShortenFQNames="true" />
+  <template name="dowhilen" value="do {&#10;    $END$&#10;}&#10;while ();" description="do while loop" toReformat="false" toShortenFQNames="true" />
+  <template name="tryn" value="try {&#10;    $END$&#10;}" description="try" toReformat="false" toShortenFQNames="true" />
+  <template name="trycatchn" value="try {&#10;    $END$&#10;} catch () {&#10;    &#10;}" description="try catch" toReformat="false" toShortenFQNames="true" />
+  <template name="catchn" value="catch ($END$) {&#10;    &#10;}" description="catch" toReformat="false" toShortenFQNames="true" />
+  <template name="finallyn" value="finally {&#10;    $END$&#10;}" description="finally" toReformat="false" toShortenFQNames="true" />
+  <template name="newn" value="new $LINK$" description="new" toReformat="false" toShortenFQNames="true">
+    <variable name="LINK" expression="complete()" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="thisn" value="this$LINK$" description="this" toReformat="false" toShortenFQNames="true">
+    <variable name="LINK" expression="complete()" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
