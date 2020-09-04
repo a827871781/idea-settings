@@ -3,7 +3,7 @@
     <property name="created">2020-09-04T14:53:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-09-04T15:07:25</property>
+    <property name="modified">2020-09-04T15:13:11</property>
     <property name="originalScheme">Nord</property>
   </metaInfo>
   <colors>
@@ -1390,7 +1390,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="617299" />
         <option name="BACKGROUND" value="3b4252" />
       </value>
     </option>
