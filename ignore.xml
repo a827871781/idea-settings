@@ -38,6 +38,14 @@
 *.iml
 out
 gen</template>
+      <template name="java">### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+target</template>
     </userTemplates>
   </component>
 </application>

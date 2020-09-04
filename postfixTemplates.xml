@@ -1,44 +1,24 @@
 <application>
+  <component name="PostfixTemplates">
+    <template id="str@userDefined" key=".str" provider="builtin.java" language-level="8" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="&quot;$EXPR$&quot;" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="toInt@userDefined" key=".tonum" provider="builtin.js" language-level="ES6" topmost="true">
+      <conditions />
+      <template name="fakeKey" value="Number($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="str@userDefined" key=".str" provider="builtin.js" language-level="ES6" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="'$EXPR$'" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="toboo@userDefined" key=".toboo" provider="builtin.js" language-level="ES6" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="Boolean($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
   <component name="PostfixTemplatesSettings">
     <option name="providerToDisabledTemplates">
-      <disabled-templates provider="builtin.js">
-        <value>
-          <set>
-            <option value="com.intellij.lang.javascript.template.postfix.JSArgumentPostfixTemplate#.arg" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSAwaitPostfixTemplate#.await" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSDForOfPostfixTemplate#.dforof" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSDestructPostfixTemplate#.destruct" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSElseStatementPostfixTemplate#.else" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSForInPostfixTemplate#.forin" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSForInPostfixTemplate#.itin" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSForOfPostfixTemplate#.forof" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSIfInstanceOfPostfixTemplate#.instanceof" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSIfStatementPostfixTemplate#.if" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSIfTypeOfPostfixTemplate#.typeofif" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSIntroduceConstPostfixTemplate#.const" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSIntroduceLetPostfixTemplate#.let" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSIntroduceVarPostfixTemplate#.var" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSLogPostfixTemplate#.log" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSNotExpressionPostfixTemplate#!" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSNotExpressionPostfixTemplate#.not" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSNotNullStatementPostfixTemplate#.notnull" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSNullStatementPostfixTemplate#.null" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSParenthesizedPostfixTemplate#.par" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSReturnStatementPostfixTemplate#.return" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSSwitchPostfixTemplate#.switch" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSThrowStatementPostfixTemplate#.throw" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSTypeOfExpressionPostfixTemplate#.typeof" />
-            <option value="com.intellij.lang.javascript.template.postfix.JSUndefPostfixTemplate#.undef" />
-          </set>
-        </value>
-      </disabled-templates>
-      <disabled-templates provider="builtin.ts">
-        <value>
-          <set>
-            <option value="com.intellij.lang.typescript.template.postfix.TypeScriptCastPostfixTemplate#.cast" />
-          </set>
-        </value>
-      </disabled-templates>
       <disabled-templates provider="org.jetbrains.kotlin.idea.codeInsight.postfix.KtPostfixTemplateProvider">
         <value>
           <set>

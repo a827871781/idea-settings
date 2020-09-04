@@ -16,6 +16,7 @@
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.SelectRow" />
   <action id="Debug" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorSelectWord">
@@ -32,6 +33,9 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="KotlinShellExecute" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />
     <keyboard-shortcut first-keystroke="f9" />
