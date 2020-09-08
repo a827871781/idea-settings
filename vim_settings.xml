@@ -1,10 +1,58 @@
 <application>
-  <component name="VimEditorSettings">
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
-  </component>
-  <component name="VimKeySettings">
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="F:/leetcode/src/main/java/easy/Leetcode.java" timestamp="1563612624000">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2NrLmxvY2soKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkb3VibGUgeTsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkb3VibGUgeTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgeDsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgQEF1dG93aXJlZAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIDsKICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIng9IiArIHgpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigieT0iICsgeSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIng9IiArIHgpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigieT0iICsgeSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIng9IiArIHgpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigieT0iICsgeSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgQEF1dG93aXJlZAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>;</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
@@ -12,19 +60,6 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
     </shortcut-conflicts>
-  </component>
-  <component name="VimSettings">
-    <state version="7" enabled="false" />
-    <notifications>
-      <idea-join enabled="false" />
-      <idea-put enabled="false" />
-    </notifications>
   </component>
 </application>
