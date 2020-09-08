@@ -4,7 +4,7 @@
     <property name="created">2019-09-24T15:27:35</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2020-09-08T16:54:20</property>
+    <property name="modified">2020-09-08T17:20:36</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2903,9 +2903,22 @@
       </value>
     </option>
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="YAML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="8c8f92" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />
+      </value>
+    </option>
+    <option name="YAML_TEXT">
+      <value>
+        <option name="FOREGROUND" value="f4f9fb" />
+        <option name="BACKGROUND" value="232832" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="org.rust.UNSAFE_CODE">
