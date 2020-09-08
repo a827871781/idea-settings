@@ -1,0 +1,14 @@
+<application>
+  <component name="RestfulSetting">
+    <option name="appSetting">
+      <Settings>
+        <option name="properties">
+          <map>
+            <entry key="Scan service with library on application default (全局配置)" value="false" />
+            <entry key="Whether to expand the ServiceTree by default?" value="false" />
+          </map>
+        </option>
+      </Settings>
+    </option>
+  </component>
+</application>
