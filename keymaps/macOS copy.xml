@@ -36,6 +36,9 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="shift space" />
   </action>
+  <action id="RestfulTool.action.OptionForEditor-CurrentClassTree">
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />
     <keyboard-shortcut first-keystroke="f9" />
