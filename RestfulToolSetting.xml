@@ -1,0 +1,20 @@
+<application>
+  <component name="RestfulSetting">
+    <option name="appSetting">
+      <Settings>
+        <option name="properties">
+          <map>
+            <entry key="Enable cache for Http Tool? (May increase memory footprint)" value="true" />
+            <entry key="Please select the default Content-Type: " value="application/x-www-form-urlencoded" />
+            <entry key="Scan service with library on application default (全局配置)" value="false" />
+            <entry key="Select Icon Scheme: " value="default" />
+            <entry key="Select the default Context Path of the container(Must start with'/' and cannot end with'/'): " value="/" />
+            <entry key="Select the default port of the container(0-65535): " value="8080" />
+            <entry key="The maximum number of redirects allowed in the HTTP Tool: " value="5" />
+            <entry key="Whether to expand the ServiceTree by default?" value="false" />
+          </map>
+        </option>
+      </Settings>
+    </option>
+  </component>
+</application>
