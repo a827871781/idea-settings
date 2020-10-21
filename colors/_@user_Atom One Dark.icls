@@ -4,7 +4,7 @@
     <property name="created">2019-09-24T15:27:35</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2020-10-13T16:14:15</property>
+    <property name="modified">2020-10-21T10:02:36</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.25" />
@@ -554,7 +554,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="a6a9ae" />
+        <option name="FOREGROUND" value="487242" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
