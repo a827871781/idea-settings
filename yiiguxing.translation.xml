@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="test" />
       <item value="9:55 上午 It is possible to bind and connect to localhost:8080 at the same time - application server will probably compete with some other software on the port" />
       <item value="Annotation for externalized configuration. Add this to a class definition or a * {@code @Bean} method in a {@code @Configuration} class if you want to bind and validate * some external Properties (e.g. from a .properties file)." />
       <item value="Dummy value to associate with an Object in the backing Map" />
@@ -50,7 +51,6 @@
       <item value="Creates a new {@link PageRequest}. Pages are zero indexed, thus providing 0 for {@code page} will return the first" />
       <item value="Error executing Maven. 2 problems were encountered while building the effective settings" />
       <item value="Error executing Maven.&#10;2 problems were encountered while building the effective settings" />
-      <item value="This exception may be thrown by methods that have detected concurrent * modification of an object when such modification is not permissible. * &lt;p&gt; * For example, it is not generally permissible for one thread to modify a Collection * while another thread is iterating over it. In general, the results of the * iteration are undefined under these circumstances. Some Iterator * implementations (including those of all the general purpose collection implementations * provided by the JRE) may choose to throw this exception if this behavior is * detected. Iterators that do this are known as &lt;i&gt;fail-fast&lt;/i&gt; iterators, * as they fail quickly and cleanly, rather that risking arbitrary, * non-deterministic behavior at an undetermined time in the future. * &lt;p&gt; * Note that this exception does not always indicate that an object has * been concurrently modified by a &lt;i&gt;different&lt;/i&gt; thread. If a single * thread issues a sequence of method invocations that violates the * contract of an object, the object may throw this exception. For * example, if a thread modifies a collection directly while it is * iterating over the collection with a fail-fast iterator, the iterator * will throw this exception. * * &lt;p&gt;Note that fail-fast behavior cannot be guaranteed as it is, generally * speaking, impossible to make any hard guarantees in the presence of * unsynchronized concurrent modification. Fail-fast operations * throw {@code ConcurrentModificationException} on a best-effort basis. * Therefore, it would be wrong to write a program that depended on this * exception for its correctness: &lt;i&gt;{@code ConcurrentModificationException} * should be used only to detect bugs.&lt;/i&gt;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -58,6 +58,9 @@
         <entry key="ENGLISH" value="64" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1608184115228" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
