@@ -14,6 +14,10 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta f4" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.SelectRow" />
