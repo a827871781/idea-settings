@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="在请求之前做一些处理" />
+      <item value="request拦截器" />
+      <item value="create" />
       <item value="doctor Suggest" />
       <item value="reservation Status" />
       <item value="suggest Status" />
@@ -48,22 +51,25 @@
       <item value="Error executing Maven.&#10;2 problems were encountered while building the effective settings" />
       <item value="This exception may be thrown by methods that have detected concurrent * modification of an object when such modification is not permissible. * &lt;p&gt; * For example, it is not generally permissible for one thread to modify a Collection * while another thread is iterating over it. In general, the results of the * iteration are undefined under these circumstances. Some Iterator * implementations (including those of all the general purpose collection implementations * provided by the JRE) may choose to throw this exception if this behavior is * detected. Iterators that do this are known as &lt;i&gt;fail-fast&lt;/i&gt; iterators, * as they fail quickly and cleanly, rather that risking arbitrary, * non-deterministic behavior at an undetermined time in the future. * &lt;p&gt; * Note that this exception does not always indicate that an object has * been concurrently modified by a &lt;i&gt;different&lt;/i&gt; thread. If a single * thread issues a sequence of method invocations that violates the * contract of an object, the object may throw this exception. For * example, if a thread modifies a collection directly while it is * iterating over the collection with a fail-fast iterator, the iterator * will throw this exception. * * &lt;p&gt;Note that fail-fast behavior cannot be guaranteed as it is, generally * speaking, impossible to make any hard guarantees in the presence of * unsynchronized concurrent modification. Fail-fast operations * throw {@code ConcurrentModificationException} on a best-effort basis. * Therefore, it would be wrong to write a program that depended on this * exception for its correctness: &lt;i&gt;{@code ConcurrentModificationException} * should be used only to detect bugs.&lt;/i&gt;" />
       <item value="Non-resolvable parent POM for com.cober:pp2s-channel-service:[unknown-version]: Could not find artifact com.cober:pp2s:pom:1.0-SNAPSHOT and 'parent.relativePath' points at wrong local POM @ line 10, column 13" />
-      <item value="The build could not read 1 project -&gt; [Help 1]" />
-      <item value="Determines if the specified character is a letter or digit. * &lt;p&gt; * A character is considered to be a letter or digit if either * {@code Character.isLetter(char ch)} or * {@code Character.isDigit(char ch)} returns * {@code true} for the character. * * &lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; This method cannot handle &lt;a * href=&quot;#supplementary&quot;&gt; supplementary characters&lt;/a&gt;. To support * all Unicode characters, including supplementary characters, use * the {@link #isLetterOrDigit(int)} method." />
-      <item value="out" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1609294007862" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Monaco" />
     <option name="primaryFontFamily" value="Monaco" />
+    <option name="separators" value="_" />
     <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
