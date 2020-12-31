@@ -67,7 +67,7 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Monaco" />
     <option name="primaryFontFamily" value="Monaco" />
-    <option name="separators" value="_" />
+    <option name="separators" value="_-" />
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
