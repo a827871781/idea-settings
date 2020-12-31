@@ -1,14 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="online Follow Up" />
-      <item value="bold" />
-      <item value="生日" />
-      <item value="item-wrapper" />
-      <item value="绑定" />
-      <item value="在请求之前做一些处理" />
-      <item value="request拦截器" />
-      <item value="create" />
+      <item value="test" />
+      <item value="9:55 上午 It is possible to bind and connect to localhost:8080 at the same time - application server will probably compete with some other software on the port" />
+      <item value="Annotation for externalized configuration. Add this to a class definition or a * {@code @Bean} method in a {@code @Configuration} class if you want to bind and validate * some external Properties (e.g. from a .properties file)." />
+      <item value="Dummy value to associate with an Object in the backing Map" />
+      <item value="Service Impl" />
       <item value="doctor Suggest" />
       <item value="reservation Status" />
       <item value="suggest Status" />
@@ -51,25 +48,25 @@
       <item value="Set the secure connection flag that will be assigned to requests * received through this connector." />
       <item value="/** * Returns the total amount of elements. * * @return the total amount of elements" />
       <item value="The language for this {@link Script} if the {@link ScriptType} is {@link ScriptType#INLINE} or * {@link ScriptType#FILE}. For {@link ScriptType#STORED} scripts this should be null, but can" />
+      <item value="Creates a new {@link PageRequest}. Pages are zero indexed, thus providing 0 for {@code page} will return the first" />
+      <item value="Error executing Maven. 2 problems were encountered while building the effective settings" />
+      <item value="Error executing Maven.&#10;2 problems were encountered while building the effective settings" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609294007862" />
+    <option name="lastTrimTime" value="1608184115228" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Monaco" />
     <option name="primaryFontFamily" value="Monaco" />
-    <option name="separators" value="_-" />
     <option name="showExplanation" value="true" />
-    <option name="showWordsOnStartup" value="true" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>

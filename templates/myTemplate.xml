@@ -12,17 +12,15 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="hm" value="Map&lt;$VAR$,$VAR1$&gt; map = new HashMap&lt;&gt;($length$);&#10;$END$" description="HashMap" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="length" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="hm" value="Map&lt;$VAR$,$VAR1$&gt; map = new HashMap&lt;&gt;();&#10;$END$" description="HashMap" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="variableOfType(Type)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR1" expression="variableOfType(Type)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="al" value="List&lt;$VAR$&gt; list = new ArrayList&lt;&gt;($length$);&#10;$END$" description="ArrayList" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="length" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="al" value="List&lt;$VAR$&gt; list = new ArrayList&lt;&gt;();&#10;$END$" description="ArrayList" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="variableOfType(Type)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -111,8 +109,8 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="ifx" value="if($str$){&#10;    $END$&#10;}" description="if(){}" toReformat="false" toShortenFQNames="true" deactivated="true">
-    <variable name="str" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+  <template name="ifx" value="if($str$){&#10;    $END$&#10;}" description="if(){}" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -130,11 +128,17 @@
       <option name="JSP" value="true" />
     </context>
   </template>
-  <template name="addconmethod" value="  @RequestMapping(&quot;$str$&quot;)&#10;    public ResponseResult&lt;$end1$ &gt; $str$($end2$){&#10;&#10;        return $end3$;&#10;    }" description="创建controller方法" toReformat="false" toShortenFQNames="true">
+  <template name="gm" value="    @GetMapping(&quot;$str$&quot;)&#10;    public ResponseResult&lt;$end1$ &gt; $str$($end2$){&#10;    &#10;        return $end3$;&#10;    }" description="创建controller方法" toReformat="false" toShortenFQNames="true">
     <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="end1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="end2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="end3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="hs" value="Set&lt;$VAR$&gt; map = new HashSet&lt;&gt;();&#10;$END$" description="HashSet" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="variableOfType(Type)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
