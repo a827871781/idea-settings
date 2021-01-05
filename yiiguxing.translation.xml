@@ -62,11 +62,4 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1608184115228" />
   </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
-    <option name="overrideFont" value="true" />
-    <option name="phoneticFontFamily" value="Monaco" />
-    <option name="primaryFontFamily" value="Monaco" />
-    <option name="showExplanation" value="true" />
-  </component>
 </application>
