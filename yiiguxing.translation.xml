@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="online Follow Up Item" />
       <item value="test" />
       <item value="9:55 上午 It is possible to bind and connect to localhost:8080 at the same time - application server will probably compete with some other software on the port" />
       <item value="Annotation for externalized configuration. Add this to a class definition or a * {@code @Bean} method in a {@code @Configuration} class if you want to bind and validate * some external Properties (e.g. from a .properties file)." />
@@ -50,16 +51,15 @@
       <item value="The language for this {@link Script} if the {@link ScriptType} is {@link ScriptType#INLINE} or * {@link ScriptType#FILE}. For {@link ScriptType#STORED} scripts this should be null, but can" />
       <item value="Creates a new {@link PageRequest}. Pages are zero indexed, thus providing 0 for {@code page} will return the first" />
       <item value="Error executing Maven. 2 problems were encountered while building the effective settings" />
-      <item value="Error executing Maven.&#10;2 problems were encountered while building the effective settings" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608184115228" />
+    <option name="lastTrimTime" value="1610007747396" />
   </component>
 </application>
