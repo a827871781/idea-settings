@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expires in" />
       <item value="wechat cp domain prefix" />
       <item value="his System Interface Error" />
       <item value="前缀" />
@@ -50,12 +51,11 @@
       <item value="Constructs a new search request against the indices. No indices provided here means that search" />
       <item value="No Such Method Error" />
       <item value="Default scope matching any host, port, realm and authentication scheme. * In the future versions of HttpClient the use of this parameter will be * discontinued. */" />
-      <item value="Set the secure connection flag that will be assigned to requests * received through this connector." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
       </map>
     </option>
   </component>
