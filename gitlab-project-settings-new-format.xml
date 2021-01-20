@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="6t6xz5z4gvr5r_MdKiJz" />
+          <option name="apiUrl" value="http://39.103.172.70:6080/" />
+          <option name="repositoryUrl" value="39.103.172.70" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
