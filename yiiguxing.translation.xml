@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="病人" />
+      <item value="expires in" />
+      <item value="wechat cp domain prefix" />
+      <item value="his System Interface Error" />
+      <item value="前缀" />
+      <item value="domain" />
+      <item value="域名" />
       <item value="容器" />
       <item value="重置" />
       <item value="确认" />
@@ -60,6 +67,7 @@
     </option>
   </component>
   <component name="Cache">
+    <option name="lastTrimTime" value="1611811700539" />
     <option name="lastTrimTime" value="1611885103578" />
   </component>
   <component name="Settings">
