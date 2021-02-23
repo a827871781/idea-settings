@@ -63,6 +63,10 @@
     <option name="lastTrimTime" value="1613964824451" />
   </component>
   <component name="Settings">
+    <option name="phoneticFontFamily" value="JetBrains Mono" />
+    <option name="primaryFontFamily" value="Monaco" />
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
   </component>
 </application>
