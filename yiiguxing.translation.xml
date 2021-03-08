@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="363" />
     <histories>
+      <item value="segmented-control text" />
+      <item value="Segmented Control" />
       <item value="矩形" />
       <item value="选填项" />
       <item value="内容" />
@@ -51,13 +53,11 @@
       <item value="PRODUCT ORDER SHIP CHANNEL" />
       <item value="send write confirm channel" />
       <item value="productnum" />
-      <item value="Add a specific Issuer (&quot;iss&quot;) claim to the Payload." />
-      <item value="Require a specific Issuer (&quot;iss&quot;) claim." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="71" />
       </map>
     </option>
   </component>
@@ -65,6 +65,11 @@
     <option name="lastTrimTime" value="1615182412674" />
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20180904000202570" />
+      </app-key>
+    </option>
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="ESPERANTO" />
@@ -75,5 +80,6 @@
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
