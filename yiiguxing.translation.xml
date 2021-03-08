@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="363" />
     <histories>
+      <item value="矩形" />
+      <item value="选填项" />
       <item value="内容" />
       <item value="空" />
       <item value="取消" />
@@ -51,20 +53,23 @@
       <item value="productnum" />
       <item value="Add a specific Issuer (&quot;iss&quot;) claim to the Payload." />
       <item value="Require a specific Issuer (&quot;iss&quot;) claim." />
-      <item value="Add a custom Claim value." />
-      <item value="name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="70" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614663000126" />
+    <option name="lastTrimTime" value="1615182412674" />
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </google-translate>
+    </option>
     <option name="phoneticFontFamily" value="JetBrains Mono" />
     <option name="primaryFontFamily" value="Monaco" />
     <option name="showExplanation" value="true" />
